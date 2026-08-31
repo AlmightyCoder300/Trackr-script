@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin marketplace add anthropics/financial-services-plugins)",
+      "Bash(mkdir -p /Users/alessandroleuci/Claude/.github/workflows)"
+    ]
+  }
+}
