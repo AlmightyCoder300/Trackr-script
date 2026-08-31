@@ -175,9 +175,12 @@ async def main() -> None:
 
     previous = []
     if SNAPSHOT_FILE.exists():
-        with SNAPSHOT_FILE.open() as f:
-            previous = json.load(f)
-        print(f"  Loaded {len(previous)} listings from previous snapshot")
+        try:
+            with SNAPSHOT_FILE.open() as f:
+                previous = json.load(f)
+            print(f"  Loaded {len(previous)} listings from previous snapshot")
+        except json.JSONDecodeError:
+            print("  snapshot.json is corrupt — treating as first run")
     else:
         print("  No previous snapshot — saving baseline, no email sent")
 
