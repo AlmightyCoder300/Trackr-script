@@ -67,6 +67,17 @@
   },
   {
     "category": "Bulge Bracket",
+    "company": "Citi",
+    "programme": "Summer Analyst 2027 2",
+    "opening_date": "01 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/citi"
+  },
+  {
+    "category": "Bulge Bracket",
     "company": "J.P. Morgan",
     "programme": "2027 Summer Internship Program 10",
     "opening_date": "31 Aug 26",
@@ -130,17 +141,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/morgan-stanley"
-  },
-  {
-    "category": "Bulge Bracket",
-    "company": "Citi",
-    "programme": "Summer Analyst 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/citi"
   },
   {
     "category": "Elite Boutique",
@@ -284,6 +284,28 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/macquarie-group"
+  },
+  {
+    "category": "Middle Market",
+    "company": "Eastdil Secured",
+    "programme": "2027 Summer Internship",
+    "opening_date": "01 Sep 26",
+    "closing_date": "16 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://eastdilsecured.bamboohr.com/careers/172?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+    "company_url": "https://app.the-trackr.com/company/eastdil-secured"
+  },
+  {
+    "category": "Middle Market",
+    "company": "William Blair",
+    "programme": "Investment Banking Summer 2027 Analyst",
+    "opening_date": "01 Sep 26",
+    "closing_date": "02 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://www.williamblair.com/Careers/job-description?gh_jid=5221129007&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "company_url": "https://app.the-trackr.com/company/william-blair"
   },
   {
     "category": "Middle Market",
@@ -441,17 +463,6 @@
   },
   {
     "category": "Middle Market",
-    "company": "Eastdil Secured",
-    "programme": "2027 Summer Internship",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/eastdil-secured"
-  },
-  {
-    "category": "Middle Market",
     "company": "Mizuho",
     "programme": "Summer Internship",
     "opening_date": "",
@@ -471,17 +482,6 @@
     "sponsors_visa": "No",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/raymond-james"
-  },
-  {
-    "category": "Middle Market",
-    "company": "William Blair",
-    "programme": "Investment Banking Summer 2027 Analyst",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/william-blair"
   },
   {
     "category": "Middle Market",
@@ -944,17 +944,6 @@
     "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/stout"
-  },
-  {
-    "category": "Middle Market",
-    "company": "William Blair",
-    "programme": "Investment Banking Summer Analyst, Secondary Advisory",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/william-blair"
   },
   {
     "category": "Middle Market",
@@ -2817,6 +2806,28 @@
   },
   {
     "category": "Trading and Quant",
+    "company": "Tower Research Capital",
+    "programme": "Quantitative Trader/Researcher Summer Internship 2027",
+    "opening_date": "01 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://tower-research.com/open-positions/?gh_jid=8037860&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "company_url": "https://app.the-trackr.com/company/tower-research-capital"
+  },
+  {
+    "category": "Trading and Quant",
+    "company": "Maven Securities",
+    "programme": "Trader Summer Internship 2027",
+    "opening_date": "01 Sep 26",
+    "closing_date": "20 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048591?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "company_url": "https://app.the-trackr.com/company/maven-securities"
+  },
+  {
+    "category": "Trading and Quant",
     "company": "BlockTech",
     "programme": "Quantitative Researcher | Internship | Summer '27",
     "opening_date": "01 Sep 26",
@@ -2825,6 +2836,17 @@
     "sponsors_visa": "",
     "application_link": "https://jobs.ashbyhq.com/blocktech/b170f716-113b-4e6e-a883-473f3cabf062?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
     "company_url": "https://app.the-trackr.com/company/blocktech"
+  },
+  {
+    "category": "Trading and Quant",
+    "company": "G-Research",
+    "programme": "Spring into Quant Finance 2027",
+    "opening_date": "01 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://share-eu1.hsforms.com/1zMPdeUlqRmmsRkIiUE4NjA2b8apt?utm_campaign=UK_Finance_2027&utm_medium=tracker&_hsenc=p2ANqtz-8iWEGAPAUjzPg5jVL34pblrdMJ8LFNgLjyRRV4tTDHSvKks4MXvQsE3yiK-R3cS6BRanmEE34oGkCc2EMW_LOxVcV59g&_hsmi=144698052&utm_content=144698052&utm_source=Trackr",
+    "company_url": "https://app.the-trackr.com/company/g-research"
   },
   {
     "category": "Trading and Quant",
@@ -3103,17 +3125,6 @@
   },
   {
     "category": "Trading and Quant",
-    "company": "Tower Research Capital",
-    "programme": "Quantitative Trader/Researcher Summer Internship 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/tower-research-capital"
-  },
-  {
-    "category": "Trading and Quant",
     "company": "Synthesis",
     "programme": "Quantitative Research Intern (Summer 2027)",
     "opening_date": "",
@@ -3144,17 +3155,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/wintermute"
-  },
-  {
-    "category": "Trading and Quant",
-    "company": "Maven Securities",
-    "programme": "Trader Summer Internship 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/maven-securities"
   },
   {
     "category": "Trading and Quant",
