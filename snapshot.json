@@ -236,7 +236,7 @@
     "programme": "2027 Summer Analyst, Investment Banking",
     "opening_date": "18 Aug 26",
     "closing_date": "25 Sep 26",
-    "latest_stage": "Online Test",
+    "latest_stage": "First Round",
     "sponsors_visa": "Yes",
     "application_link": "https://moelis-careers.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-36ff0d3487ce/candidate/so/pm/1/pl/2/opp/391-2027-Summer-Analyst-Investment-Banking-London/en-GB?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
     "company_url": "https://app.the-trackr.com/company/moelis-co"
@@ -273,6 +273,28 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/lazard"
+  },
+  {
+    "category": "Middle Market",
+    "company": "Harris Williams",
+    "programme": "2027 Summer Analyst",
+    "opening_date": "03 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://pnc.wd5.myworkdayjobs.com/en-US/HarrisWilliams/job/XMLNAME-2027-Summer-Analyst--London_R233025?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+    "company_url": "https://app.the-trackr.com/company/harris-williams"
+  },
+  {
+    "category": "Middle Market",
+    "company": "Alantra",
+    "programme": "FIG Summer Intern",
+    "opening_date": "02 Sep 26",
+    "closing_date": "16 Sep 26",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://alantra.wd3.myworkdayjobs.com/en-US/Alantra/job/FIG-Summer-Internship--London--UK-_JR489-1?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&source=Trackr",
+    "company_url": "https://app.the-trackr.com/company/alantra"
   },
   {
     "category": "Middle Market",
@@ -394,17 +416,6 @@
     "sponsors_visa": "No",
     "application_link": "https://jobs.standardchartered.com/search/?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&q=%22intern+uk+2027%22&skillsSearch=false&facetFilters=%7B%7D&pageNumber=0",
     "company_url": "https://app.the-trackr.com/company/standard-chartered"
-  },
-  {
-    "category": "Middle Market",
-    "company": "SMBC",
-    "programme": "Summer Intern Programme 2027",
-    "opening_date": "06 Aug 26",
-    "closing_date": "07 Sep 26",
-    "latest_stage": "Online Test",
-    "sponsors_visa": "No",
-    "application_link": "https://www.brightnetwork.co.uk/graduate-jobs/smbc/smbc-summer-intern-programme-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
-    "company_url": "https://app.the-trackr.com/company/smbc"
   },
   {
     "category": "Middle Market",
@@ -559,17 +570,6 @@
     "sponsors_visa": "No",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/td-securities"
-  },
-  {
-    "category": "Middle Market",
-    "company": "Alantra",
-    "programme": "FIG Summer Intern",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/alantra"
   },
   {
     "category": "Middle Market",
@@ -903,17 +903,6 @@
   },
   {
     "category": "Middle Market",
-    "company": "Harris Williams",
-    "programme": "Summer Analyst",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/harris-williams"
-  },
-  {
-    "category": "Middle Market",
     "company": "Rede Partners",
     "programme": "Spring into Rede Insight Programme 2027",
     "opening_date": "",
@@ -1076,6 +1065,17 @@
     "sponsors_visa": "No",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/abn-amro"
+  },
+  {
+    "category": "Middle Market",
+    "company": "SMBC",
+    "programme": "Summer Intern Programme 2027",
+    "opening_date": "07 Aug 26",
+    "closing_date": "01 Sep 26",
+    "latest_stage": "Online Test",
+    "sponsors_visa": "No",
+    "application_link": "https://www.brightnetwork.co.uk/graduate-jobs/smbc/smbc-summer-intern-programme-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/smbc"
   },
   {
     "category": "Buy-Side",
@@ -2806,6 +2806,17 @@
   },
   {
     "category": "Trading and Quant",
+    "company": "Marshall Wace",
+    "programme": "Quant Research Intern - 2027",
+    "opening_date": "02 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8772688002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "company_url": "https://app.the-trackr.com/company/marshall-wace"
+  },
+  {
+    "category": "Trading and Quant",
     "company": "Tower Research Capital",
     "programme": "Quantitative Trader/Researcher Summer Internship 2027",
     "opening_date": "01 Sep 26",
@@ -3111,17 +3122,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/qube-rt"
-  },
-  {
-    "category": "Trading and Quant",
-    "company": "Marshall Wace",
-    "programme": "Quant Research Intern",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/marshall-wace"
   },
   {
     "category": "Trading and Quant",
