@@ -324,9 +324,9 @@
     "programme": "Investment Banking Summer 2027 Analyst",
     "opening_date": "01 Sep 26",
     "closing_date": "02 Oct 26",
-    "latest_stage": "",
+    "latest_stage": "HireVue",
     "sponsors_visa": "Yes",
-    "application_link": "https://www.williamblair.com/Careers/job-description?gh_jid=5221129007&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "application_link": "https://www.williamblair.com/Careers/job-description?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_jid=5221129007&gh_src=Trackr",
     "company_url": "https://app.the-trackr.com/company/william-blair"
   },
   {
@@ -1116,9 +1116,9 @@
     "programme": "2027 Non-Investment Summer Intern",
     "opening_date": "01 Aug 26",
     "closing_date": "",
-    "latest_stage": "",
+    "latest_stage": "First Round",
     "sponsors_visa": "Yes",
-    "application_link": "https://campusjobs.mlp.com/careers?location=London%2C+London%2C+United+Kingdom&pid=755957819772&domain=mlp.com&sort_by=relevance&triggerGoButton=false&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "application_link": "https://campusjobs.mlp.com/careers?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&location=London%2C+London%2C+United+Kingdom&pid=755957819772&domain=mlp.com&sort_by=relevance&triggerGoButton=false",
     "company_url": "https://app.the-trackr.com/company/millennium-management"
   },
   {
@@ -2624,7 +2624,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "No",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/turner-townsend"
   },
@@ -3246,12 +3246,12 @@
   },
   {
     "category": "Trading and Quant",
-    "company": "BP",
+    "company": "bp",
     "programme": "Summer Internship - Trading & Shipping",
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "Yes",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/bp"
   },
@@ -3603,7 +3603,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "No",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/cbre"
   },
@@ -4406,7 +4406,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "Yes",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/centrica"
   },
@@ -4450,7 +4450,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "No",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/sky"
   },
@@ -4494,7 +4494,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "",
+    "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/tradeweb"
   },
@@ -4670,7 +4670,7 @@
     "opening_date": "",
     "closing_date": "",
     "latest_stage": "",
-    "sponsors_visa": "No",
+    "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/baker-hughes"
   },
