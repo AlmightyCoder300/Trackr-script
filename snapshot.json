@@ -56,6 +56,28 @@
   },
   {
     "category": "Bulge Bracket",
+    "company": "Morgan Stanley",
+    "programme": "2027 Summer Analyst Programme 4",
+    "opening_date": "07 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/morgan-stanley"
+  },
+  {
+    "category": "Bulge Bracket",
+    "company": "Citi",
+    "programme": "Summer Analyst 2027 3",
+    "opening_date": "04 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/citi"
+  },
+  {
+    "category": "Bulge Bracket",
     "company": "Deutsche Bank",
     "programme": "Internship Programme 2027 2",
     "opening_date": "01 Sep 26",
@@ -67,22 +89,11 @@
   },
   {
     "category": "Bulge Bracket",
-    "company": "Citi",
-    "programme": "Summer Analyst 2027 2",
-    "opening_date": "01 Sep 26",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/citi"
-  },
-  {
-    "category": "Bulge Bracket",
     "company": "J.P. Morgan",
     "programme": "2027 Summer Internship Program 10",
     "opening_date": "31 Aug 26",
     "closing_date": "",
-    "latest_stage": "",
+    "latest_stage": "HireVue",
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/j-p-morgan"
@@ -132,17 +143,6 @@
     "company_url": "https://app.the-trackr.com/company/bank-of-america"
   },
   {
-    "category": "Bulge Bracket",
-    "company": "Morgan Stanley",
-    "programme": "2027 Summer Analyst Programme",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/morgan-stanley"
-  },
-  {
     "category": "Elite Boutique",
     "company": "Centerview Partners",
     "programme": "2027 Summer Internship Programme",
@@ -159,7 +159,7 @@
     "programme": "Summer Internship (2027) 6",
     "opening_date": "01 Sep 26",
     "closing_date": "",
-    "latest_stage": "",
+    "latest_stage": "First Round",
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/evercore"
@@ -276,6 +276,39 @@
   },
   {
     "category": "Middle Market",
+    "company": "MUFG",
+    "programme": "2027 Summer Analyst Programme 4",
+    "opening_date": "07 Sep 26",
+    "closing_date": "29 Nov 26",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/mufg"
+  },
+  {
+    "category": "Middle Market",
+    "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+    "programme": "2027 Summer Internship Programme 2",
+    "opening_date": "07 Sep 26",
+    "closing_date": "25 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/societe-generale"
+  },
+  {
+    "category": "Middle Market",
+    "company": "Baird",
+    "programme": "2027 Global Investment Banking - M&A Summer Internship",
+    "opening_date": "07 Sep 26",
+    "closing_date": "02 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://wd1.myworkdaysite.com/en-US/recruiting/baird/Careers/job/XMLNAME-2027-Global-Investment-Banking---M-A-London-Summer-Internship_R2026974?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/baird"
+  },
+  {
+    "category": "Middle Market",
     "company": "Harris Williams",
     "programme": "2027 Summer Analyst",
     "opening_date": "03 Sep 26",
@@ -368,7 +401,7 @@
     "programme": "2027 Summer Internship Programme 5",
     "opening_date": "31 Aug 26",
     "closing_date": "",
-    "latest_stage": "",
+    "latest_stage": "Online Test",
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/nomura"
@@ -463,17 +496,6 @@
   },
   {
     "category": "Middle Market",
-    "company": "MUFG",
-    "programme": "MUFG 2027 Summer Internship",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/mufg"
-  },
-  {
-    "category": "Middle Market",
     "company": "Mizuho",
     "programme": "Summer Internship",
     "opening_date": "",
@@ -515,17 +537,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/houlihan-lokey"
-  },
-  {
-    "category": "Middle Market",
-    "company": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
-    "programme": "2027 Summer Internship Programme",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/societe-generale"
   },
   {
     "category": "Middle Market",
@@ -669,17 +680,6 @@
     "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/kr8-advisory"
-  },
-  {
-    "category": "Middle Market",
-    "company": "Baird",
-    "programme": "M&A Summer Internship 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/baird"
   },
   {
     "category": "Middle Market",
@@ -980,17 +980,6 @@
   },
   {
     "category": "Middle Market",
-    "company": "First Bank of Nigeria",
-    "programme": "2027 Summer Internship Programme",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/first-bank-of-nigeria"
-  },
-  {
-    "category": "Middle Market",
     "company": "BDO Global",
     "programme": "2027 Summer Internship Programme",
     "opening_date": "",
@@ -1079,6 +1068,28 @@
   },
   {
     "category": "Buy-Side",
+    "company": "InfraRed Capital Partners",
+    "programme": "Investments Summer Analyst Internship 2027",
+    "opening_date": "07 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "No",
+    "application_link": "https://ircp.bamboohr.com/careers/366?source=Trackr&utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/infrared-capital-partners"
+  },
+  {
+    "category": "Buy-Side",
+    "company": "Brevan Howard",
+    "programme": "2027 Summer Internship Program",
+    "opening_date": "07 Sep 26",
+    "closing_date": "30 Apr 27",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://wd3.myworkdaysite.com/en-US/recruiting/brevanhoward/BH_ExternalCareers/job/XMLNAME-2027-Summer-Internship-Program---Trading--London_JR101584?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/brevan-howard"
+  },
+  {
+    "category": "Buy-Side",
     "company": "CD&R",
     "programme": "Private Equity Summer Internship 2027",
     "opening_date": "24 Aug 26",
@@ -1094,7 +1105,7 @@
     "programme": "Summer Analyst Programme 2027",
     "opening_date": "19 Aug 26",
     "closing_date": "",
-    "latest_stage": "",
+    "latest_stage": "First Round",
     "sponsors_visa": "Yes",
     "application_link": "https://apptrkr.io/ares-management/ares-management-2027-2028/london-summer-intern-programme-2027?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
     "company_url": "https://app.the-trackr.com/company/ares-management"
@@ -1222,17 +1233,6 @@
   },
   {
     "category": "Buy-Side",
-    "company": "InfraRed Capital Partners",
-    "programme": "2027 Summer Analyst",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "No",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/infrared-capital-partners"
-  },
-  {
-    "category": "Buy-Side",
     "company": "Verition Fund Management",
     "programme": "2027 Summer Internship",
     "opening_date": "",
@@ -1285,17 +1285,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/schonfeld"
-  },
-  {
-    "category": "Buy-Side",
-    "company": "Brevan Howard",
-    "programme": "Summer Internship Programme 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/brevan-howard"
   },
   {
     "category": "Buy-Side",
@@ -2333,6 +2322,17 @@
   },
   {
     "category": "Consulting",
+    "company": "Oliver Wyman",
+    "programme": "Summer Internship 2027",
+    "opening_date": "04 Sep 26",
+    "closing_date": "",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://careers.marsh.com/global/en/job/R_363389/Oliver-Wyman-Summer-Internship-2027-London?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/oliver-wyman"
+  },
+  {
+    "category": "Consulting",
     "company": "McKinsey & Company",
     "programme": "Business Analyst Intern",
     "opening_date": "01 Sep 26",
@@ -2407,17 +2407,6 @@
     "sponsors_visa": "Yes",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/compass-lexecon"
-  },
-  {
-    "category": "Consulting",
-    "company": "Oliver Wyman",
-    "programme": "Summer Internship 2027",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/oliver-wyman"
   },
   {
     "category": "Consulting",
@@ -2803,6 +2792,28 @@
     "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/proxima"
+  },
+  {
+    "category": "Trading and Quant",
+    "company": "Man Group",
+    "programme": "2027 Man AHL Summer Internship 2",
+    "opening_date": "04 Sep 26",
+    "closing_date": "30 Sep 26",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "",
+    "company_url": "https://app.the-trackr.com/company/man-group"
+  },
+  {
+    "category": "Trading and Quant",
+    "company": "XY Capital",
+    "programme": "2027 Summer Internship - Quant Research and Trading",
+    "opening_date": "04 Sep 26",
+    "closing_date": "30 Oct 26",
+    "latest_stage": "",
+    "sponsors_visa": "",
+    "application_link": "https://xycapital.careers.hibob.com/jobs/6f65a9e5-950f-42c3-b0bb-31a00483fdc4?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027",
+    "company_url": "https://app.the-trackr.com/company/xy-capital"
   },
   {
     "category": "Trading and Quant",
@@ -3609,6 +3620,17 @@
   },
   {
     "category": "Pensions and Insurance",
+    "company": "Rothesay",
+    "programme": "2027 Summer Internship Programme",
+    "opening_date": "04 Sep 26",
+    "closing_date": "08 Nov 26",
+    "latest_stage": "",
+    "sponsors_visa": "Yes",
+    "application_link": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8784142002?utm_source=Trackr&utm_medium=tracker&utm_campaign=UK_Finance_2027&gh_src=Trackr",
+    "company_url": "https://app.the-trackr.com/company/rothesay"
+  },
+  {
+    "category": "Pensions and Insurance",
     "company": "WTW",
     "programme": "2027 Actuarial Consultant Internship Programme",
     "opening_date": "01 Sep 26",
@@ -3683,17 +3705,6 @@
     "sponsors_visa": "",
     "application_link": "",
     "company_url": "https://app.the-trackr.com/company/hymans-robertson"
-  },
-  {
-    "category": "Pensions and Insurance",
-    "company": "Rothesay",
-    "programme": "Internship Programme",
-    "opening_date": "",
-    "closing_date": "",
-    "latest_stage": "",
-    "sponsors_visa": "Yes",
-    "application_link": "",
-    "company_url": "https://app.the-trackr.com/company/rothesay"
   },
   {
     "category": "Pensions and Insurance",
